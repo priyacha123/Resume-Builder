@@ -107,7 +107,7 @@ let opt = {
     html2canvas:  { scale: 4 },
     jsPDF:        { unit: 'a', orientation: 'portrait' }
   }
-  
+   
 
 // ---------------function to cal areaCV and HTML2pdf options------------
 function generateResume() {
